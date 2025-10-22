@@ -1,0 +1,7 @@
+# databases & logs
+*.db
+*.log
+
+# build dirs
+target/
+bin/
